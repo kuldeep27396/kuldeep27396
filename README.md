@@ -18,7 +18,7 @@ My name is Kuldeep Pal and I'm a Machine Learning Engineer (Data Science). I'm f
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@kuldeep27396).
+Apart from Machine Learning and Job, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@kuldeep27396).
 
 ## My Tech Toolbox 🧰
 
