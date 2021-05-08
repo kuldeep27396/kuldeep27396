@@ -5,7 +5,7 @@ My name is Kuldeep Pal and I'm a Machine Learning Engineer (Data Science). I'm f
 
 
 * My primary coding language: Python
-* Earned Gold badge & 5 star at HackerRank in Python programming and SQL.
+* Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/kuldeep27396). in Python programming and SQL.
 * I'm Passionate about Data Domain and I'm exploring Machine Learning, Deep learning, Computer Vision and Big Data.
 
 
@@ -59,9 +59,11 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
+
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/kuldeep27396
 [2]: https://github.com/kuldeep27396
 [3]: https://www.linkedin.com/in/kuldeep27396
+
 
