@@ -1,38 +1,37 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kuldeep27396.kuldeep27396)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Kuldeep Pal and I'm a Machine Learning Engineer (Data Science). I'm from India, living in Pune and currently working at TCS. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Kuldeep Pal and I'm a Big Data Engineer. I'm from India, living in Pune and currently working at ZS Asssociates. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 * My primary coding language: Python
 * Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/kuldeep27396). in Python programming and SQL.
-* I'm Passionate about Data Domain and I'm exploring Machine Learning, Deep learning, Computer Vision and Big Data.
+* I'm Passionate about Data Domain and I'm exploring Big Data, Cloud and Machine Learning.
 
 
  💬 Ask me about anything, I am happy to help.
  
- 📝 [Resume](https://drive.google.com/)
+ 📝 [Resume](#)
 
 
 
 
 ## &#x270d; Blog & Writing
 
-Apart from Machine Learning and Job, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@kuldeep27396).
+Apart from Data Engineering , I also maintain a blog - you can find my articles on [Medium](https://medium.com/@kuldeep27396).
 
 ## My Tech Toolbox 🧰
 
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" height="40"/> 
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40"/> 
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="Pytorch" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://logodix.com/logo/646855.png" alt="Anaconda" width="50" height="40"/>
-<img src="https://logodix.com/logo/1741446.png" alt="Jupyter" width="50" height="40"/>
+<img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png" alt="Spark" width="50" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjnQBOMHKsTBx0oegihm8pWx4Du-2D8FI1bg&usqp=CAU" alt="Jupyter" width="50" height="40"/>
+<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/06/Tableau.png" alt="Spark" width="50" height="40"/>
+<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2018/06/Elasticsearch.png" alt="Spark" width="50" height="40"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
