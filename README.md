@@ -1,10 +1,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kuldeep27396.kuldeep27396)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Kuldeep Pal and I'm a Big Data Engineer. I'm from India, living in Pune and currently working at ZS Asssociates. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Kuldeep Pal and I'm a Big Data Engineer. I'm from India, living in Pune and currently working at Walmart Global Tech. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
-* My primary coding language: Python
+* My primary coding language: Python, Scala, SQL
 * Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/kuldeep27396). in Python programming and SQL.
 * I'm Passionate about Data Domain and I'm exploring Big Data, Cloud and Machine Learning.
 
