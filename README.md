@@ -80,7 +80,7 @@ Apart from Data Engineering, I also maintain a blog - you can find my articles o
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kuldeep27396/kuldeep27396">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep27396&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep27396&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/kuldeep27396/kuldeep27396">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep27396&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kuldeep's GitHub Stats" />
