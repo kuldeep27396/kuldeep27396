@@ -1,8 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=kuldeep27396&abbreviated=true)
   
-![](https://visitor-badge.glitch.me/badge?page_id=kuldeep27396.kuldeep27396)
+
 
 </div>
 
