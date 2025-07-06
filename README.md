@@ -6,95 +6,94 @@
 
 </div>
 
-I'm **Kuldeep Pal**, a **Big Data Engineer** from Pune, India, currently working at Walmart Global Tech. 
+I'm **Kuldeep Pal**, Data Engineering and Software Engineering expert at with **7+ years** of experience building large-scale data systems and real-time platform.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-## 🧐 About Me:
-
-- 🔭 My primary coding languages: Python, Scala, SQL
-- 🏆 Earned Gold badge & 5 star at [HackerRank](https://www.hackerrank.com/kuldeep27396) in Python programming and SQL
-- 🌱 I'm passionate about the Data Domain and I'm exploring Big Data, Cloud, and Machine Learning
-- 💬 Ask me about anything, I am happy to help
-- 📝 [Resume](#)
-
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
 
-### Big Data:
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=flat-square&logo=Apache-Hive&logoColor=black)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
+### Big Data & Streaming:
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=Apache-Hadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/-Hive-FDEE21?style=for-the-badge&logo=Apache-Hive&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 
-### Cloud:
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+### Cloud Platforms:
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D0?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 
 ### Databases:
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-### Tools/CICD:
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+### Backend Development:
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-### Soft Skills:
-- Collaboration
-- Teamwork
-- Problem-Solving
-- Stakeholder Management
+### DevOps & Tools:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white)
 
-## 🕰️ Time Distribution
-
-Here's how I've spent my time on average over the last 6 years:
-
-```mermaid
-pie title Time Spent on Different Areas
-    "Data Engineering" : 80
-    "Backend" : 10
-    "DevOps" : 5
-    "GenAI" : 5
-```
-
-## ✍️ Blog & Writing
-
-Apart from Data Engineering, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@kuldeep27396).
+### GenAI & LLM:
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![LLM](https://img.shields.io/badge/-LLM%20Agents-FF6B6B?style=for-the-badge&logo=Robot-Framework&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
+<div align="center">
+  
 <a href="https://github.com/kuldeep27396/kuldeep27396">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep27396&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuldeep27396&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kuldeep's GitHub Stats" />
 </a>
 <a href="https://github.com/kuldeep27396/kuldeep27396">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep27396&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kuldeep's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep27396&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact" />
 </a>
 
-## 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/kuldeep27396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuldeep27396" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kuldeep27396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep27396" height="30" width="40" /></a>
-<a href="https://medium.com/@kuldeep27396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kuldeep27396" height="30" width="40" /></a>
+</div>
+
+## 🔗 Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/kuldeep27396" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+</a>
+<a href="https://twitter.com/kuldeep27396" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
+</a>
+<a href="https://medium.com/@kuldeep27396" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="50" />
+</a>
+<a href="https://kuldeep-pal.site/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" width="50" />
+</a>
+<a href="mailto:kuldeep27396@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" height="40" width="50" />
+</a>
 </p>
 
-<!-- Links to your social media accounts -->
+---
 
-[1]: https://twitter.com/kuldeep27396
-[2]: https://github.com/kuldeep27396
-[3]: https://www.linkedin.com/in/kuldeep27396
+<div align="center">
+  
+**Building scalable data and backend systems that drive real business impact** 🚀
+
+</div>
