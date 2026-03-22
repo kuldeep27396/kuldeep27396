@@ -10,7 +10,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -30,13 +29,13 @@
 ## 🔥 Featured Projects
 
 - 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, 27 Tests
-- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI customer support with RAG | SLA monitoring, ticket classification
-- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp-first health platform | AI insights, reminders
-- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — AI code review agent | GitHub webhooks, LLMs
-- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — Agentic RAG demo | Streamlit, AI-powered search
-- 🛒 **[RealTime-ECommerce-Analytics-Flink](https://github.com/kuldeep27396/RealTime-ECommerce-Analytics-Flink)** — Real-time clickstream | Kafka, Flink, Pinot
-- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ Production DAGs | Astronomer Cloud
-- 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — Browser extension for AI video summaries
+- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI-powered customer support that never sleeps | RAG, SLA monitoring, ticket classification
+- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp bot that keeps parents healthy | AI insights, medication reminders
+- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — Your AI code buddy on every PR | GitHub webhooks, LLM-powered review
+- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — RAG that actually thinks before answering | Streamlit demo, AI-powered search
+- 🛒 **[RealTime-ECommerce-Analytics-Flink](https://github.com/kuldeep27396/RealTime-ECommerce-Analytics-Flink)** — Know what's trending before it fades | Kafka, Flink, Pinot
+- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ production DAGs that run so well, they feel magic | Astronomer Cloud
+- 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — TLDR any video with one click | AI-powered summaries
 
 ---
 
