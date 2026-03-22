@@ -29,21 +29,14 @@
 
 ## 🔥 Featured Projects
 
-- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels with production-grade Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-92003?style=flat&logo=pydantic&logoColor=white) ![SOLID](https://img.shields.io/badge/-SOLID-2A2A2A?style=flat)
-
-- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI-powered customer support with intelligent ticket classification and SLA monitoring | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-412991?style=flat&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp-first health platform for parents with AI-driven insights and reminders | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D3?style=flat&logo=whatsapp&logoColor=white) ![AI](https://img.shields.io/badge/-AI-AI?style=flat)
-
-- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — Automated code review using LLMs via GitHub webhooks | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![LLMs](https://img.shields.io/badge/-LLMs-OpenAI?style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — Agentic RAG system with live Streamlit demo for AI-powered search | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-412991?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-- 🛒 **[RealTime-ECommerce-Analytics-Flink](https://github.com/kuldeep27396/RealTime-ECommerce-Analytics-Flink)** — Real-time clickstream analytics with sub-second insights | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![Flink](https://img.shields.io/badge/-Flink-F46802?style=flat&logo=apache-flink&logoColor=white) ![Pinot](https://img.shields.io/badge/-Pinot-E40627?style=flat)
-
-- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ production-grade Airflow DAGs deployed on Astronomer Cloud | ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Astronomer](https://img.shields.io/badge/-Astronomer-1A1A1A?style=flat)
-
-- 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — Browser extension for AI-powered YouTube video summaries | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![AI](https://img.shields.io/badge/-AI-OpenAI?style=flat) ![Browser](https://img.shields.io/badge/-Browser-Extension-000?style=flat)
+- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, 27 Tests
+- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI customer support with RAG | SLA monitoring, ticket classification
+- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp-first health platform | AI insights, reminders
+- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — AI code review agent | GitHub webhooks, LLMs
+- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — Agentic RAG demo | Streamlit, AI-powered search
+- 🛒 **[RealTime-ECommerce-Analytics-Flink](https://github.com/kuldeep27396/RealTime-ECommerce-Analytics-Flink)** — Real-time clickstream | Kafka, Flink, Pinot
+- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ Production DAGs | Astronomer Cloud
+- 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — Browser extension for AI video summaries
 
 ---
 
