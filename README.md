@@ -28,14 +28,19 @@
 
 ## 🔥 Featured Projects
 
-- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, 27 Tests | [PyPI](https://pypi.org/project/telegram-dl)
-- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI-powered customer support that never sleeps | RAG, SLA monitoring, ticket classification | [Live](https://aigenius-ticketing.onrender.com/docs)
-- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp bot that keeps parents healthy | AI insights, medication reminders
-- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — Your AI code buddy on every PR | GitHub webhooks, LLM-powered review | [App](https://github.com/apps/staffreview)
-- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — RAG that actually thinks before answering | Streamlit demo, AI-powered search | [Demo](https://agentic-rag-demo-kuldeep.streamlit.app/)
+### 🤖 AI
+- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI-powered customer support that never sleeps | RAG, SLA monitoring | [Live](https://aigenius-ticketing.onrender.com/docs)
+- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — Your AI code buddy on every PR | GitHub webhooks, LLM review | [App](https://github.com/apps/staffreview)
+- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — RAG that actually thinks before answering | Streamlit, AI search | [Demo](https://agentic-rag-demo-kuldeep.streamlit.app/)
+- 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — TLDR any video with one click | AI summaries | [Chrome](https://chromewebstore.google.com/detail/youtube-to-perplexity-ai/jgoiaakanloefcjgaecbmmifbnhecppl)
+
+### 📊 Data
 - 🛒 **[RealTime-ECommerce-Analytics-Flink](https://github.com/kuldeep27396/RealTime-ECommerce-Analytics-Flink)** — Know what's trending before it fades | Kafka, Flink, Pinot
 - 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ production DAGs that run so well, they feel magic | Astronomer Cloud | [Cloud](https://cloud.astronomer.io/cmcx8ccuc0jpm01od8z35fw2x)
-- 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — TLDR any video with one click | AI-powered summaries | [Chrome](https://chromewebstore.google.com/detail/youtube-to-perplexity-ai/jgoiaakanloefcjgaecbmmifbnhecppl)
+
+### ⚙️ Backend
+- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, 27 Tests | [PyPI](https://pypi.org/project/telegram-dl)
+- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp bot that keeps parents healthy | AI insights, reminders
 
 ---
 
