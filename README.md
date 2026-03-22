@@ -40,13 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kuldeep27396&theme=radical&hide_border=true&show_icons=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuldeep27396&theme=radical&hide_border=true)
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep27396)
