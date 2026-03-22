@@ -35,7 +35,7 @@
 - 🛒 **[RealTime-ECommerce-Analytics-Flink](https://github.com/kuldeep27396/RealTime-ECommerce-Analytics-Flink)** — Know what's trending before it fades | Kafka, Flink, Pinot
 - 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ production DAGs that run so well, they feel magic | Astronomer Cloud | [Cloud](https://cloud.astronomer.io/cmcx8ccuc0jpm01od8z35fw2x)
 - 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, 27 Tests | [PyPI](https://pypi.org/project/telegram-dl)
-- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — Never miss a medication reminder for your parents | WhatsApp health check-ins with AI insights
+- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — Manage your whole family's health in one place | AI-driven insights, medication reminders, WhatsApp-first
 
 ---
 
