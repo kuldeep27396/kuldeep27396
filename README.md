@@ -6,28 +6,46 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔧 Skills
 
-- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, Design Patterns, 27 Tests
-- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — AI Agent for automated code review using GPT-4 | LangChain, OpenAI
-- 💰 **[SplitKro](https://github.com/kuldeep27396/SplitKro)** — Expense sharing app | Java Spring Boot, Clean Architecture
-- 🏔️ **[olake](https://github.com/kuldeep27396/olake)** — MongoDB to Apache Iceberg replication | Go, CDC, Data Lakehouse
-- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ Production Airflow DAGs | Astronomer Cloud, Python
-- ⚡ **[hotstar-disney-realtime-popularity-pipeline](https://github.com/kuldeep27396/hotstar-disney-realtime-popularity-pipeline)** — Real-time content popularity tracking | Kafka, Flink
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Flink](https://img.shields.io/badge/-Flink-F46802?style=flat&logo=apache-flink&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-412991?style=flat&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I Build
 
-**Languages:** Python • SQL • PySpark • Scala • Java • Go
+### 🤖 AI Engineering
+Building AI agents and RAG systems for automation and insights
 
-**Big Data:** Apache Spark • Kafka • Flink • Airflow • Hive • Databricks
+### 📊 Data Platform
+Real-time streaming pipelines, data lakes, and warehouse solutions
 
-**Cloud:** AWS (S3, EMR, Glue) • GCP (BigQuery, Dataproc) • Azure
+### 🔌 Backend APIs
+Scalable REST APIs and microservices
 
-**AI/ML:** LangChain • RAG • AI Agents • OpenAI • Hugging Face
+---
 
-**Backend:** Spring Boot • FastAPI • Microservices • REST APIs
+## 🔥 Featured Projects
+
+- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram | Python, SOLID, Pydantic, Design Patterns, 27 Tests
+- 📱 **[ElderLink](https://github.com/kuldeep27396/ElderLink)** — WhatsApp-first parent health platform | Health vault, reminders, AI insights
+- 💬 **[aigenius-ticketing](https://github.com/kuldeep27396/aigenius-ticketing)** — AI customer support | RAG, SLA monitoring, ticket classification
+- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — AI code review agent | LangChain, GPT-4, automated PR analysis
+- 🔮 **[agentic-rag](https://github.com/kuldeep27396/agentic-rag)** — Agentic RAG demo | Streamlit app, AI-powered search
+- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ Production DAGs | Astronomer Cloud, Python
 
 ---
 
@@ -43,7 +61,7 @@
 
 - 🎓 **Certifications:** Airflow Fundamentals (Astronomer) • Data Streaming Engineer (Confluent) • Databricks Lakehouse Fundamentals
 - 📈 **Scale:** 2TB+ daily data processing with real-time streaming pipelines
-- 🤖 **AI:** Building AI Agents for code review, RAG systems, and automation
+- 🤖 **AI:** AI Agents, RAG systems, LangChain, OpenAI integration
 
 ---
 
