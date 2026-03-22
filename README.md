@@ -1,47 +1,59 @@
 # Hi, I'm Kuldeep Pal 👋
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kuldeep27396)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kuldeep27396)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kuldeep27396)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=Google-Chrome&logoColor=white)](https://kuldeep-pal.site/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kuldeep27396@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=kuldeep27396&color=blueviolet&style=flat-square)
+📍 **India** | 💼 **Senior Data Engineer @ Walmart** | 🚀 **Building scalable data platforms**
 
-</div>
-
-**Senior Data Engineer & Software Engineer** | 7+ years building large-scale data platforms, real-time streaming systems, and AI-powered solutions.
-
-## 🛠️ Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python • SQL • PySpark • Scala • Java • Shell |
-| **Big Data & Streaming** | Apache Spark • Kafka • Airflow • Hadoop • Hive • Elasticsearch • Databricks |
-| **Cloud Platforms** | AWS (S3, EMR, Glue, Lambda) • GCP (BigQuery, Dataproc, GCS) • Azure |
-| **Databases** | BigQuery • MySQL • MongoDB • Redis • SQL Server • Elasticsearch |
-| **Backend** | Spring Boot • FastAPI • REST APIs • Microservices |
-| **AI/ML** | LangChain • RAG • AI Agents • MCP Servers • OpenAI • Hugging Face • MLflow |
-| **DevOps** | Docker • Kubernetes • Jenkins • Git • Terraform • CI/CD |
-
-## 📊 GitHub Statistics
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeep27396&theme=tokyonight" alt="Profile Summary" width="100%" />
-</p>
-
-## 🏆 Highlights
-
-- 🎓 **Certifications**: Airflow Fundamentals (Astronomer) • Data Streaming Engineer (Confluent) • Databricks Foundations
-- 🚀 **Scale**: Building systems processing 2TB+ daily with real-time streaming pipelines
-- 💡 **Innovation**: AI Agents & MCP Servers for automation | Backend systems with Spring Boot & FastAPI
+> 7+ years building production-ready data pipelines, real-time streaming systems, and AI-powered solutions.
 
 ---
 
-<div align="center">
+## 🔥 Featured Projects
 
-**💡 Building scalable data and backend systems that drive real business impact**
+- 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, Design Patterns, 27 Tests
+- 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — AI Agent for automated code review using GPT-4 | LangChain, OpenAI
+- 💰 **[SplitKro](https://github.com/kuldeep27396/SplitKro)** — Expense sharing app | Java Spring Boot, Clean Architecture
+- 🏔️ **[olake](https://github.com/kuldeep27396/olake)** — MongoDB to Apache Iceberg replication | Go, CDC, Data Lakehouse
+- 🌊 **[airflow-projects-deployed](https://github.com/kuldeep27396/airflow-projects-deployed)** — 25+ Production Airflow DAGs | Astronomer Cloud, Python
+- ⚡ **[hotstar-disney-realtime-popularity-pipeline](https://github.com/kuldeep27396/hotstar-disney-realtime-popularity-pipeline)** — Real-time content popularity tracking | Kafka, Flink
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • SQL • PySpark • Scala • Java • Go
+
+**Big Data:** Apache Spark • Kafka • Flink • Airflow • Hive • Databricks
+
+**Cloud:** AWS (S3, EMR, Glue) • GCP (BigQuery, Dataproc) • Azure
+
+**AI/ML:** LangChain • RAG • AI Agents • OpenAI • Hugging Face
+
+**Backend:** Spring Boot • FastAPI • Microservices • REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep27396&theme=radical&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep27396&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🏆 Highlights
+
+- 🎓 **Certifications:** Airflow Fundamentals (Astronomer) • Data Streaming Engineer (Confluent) • Databricks Lakehouse Fundamentals
+- 📈 **Scale:** 2TB+ daily data processing with real-time streaming pipelines
+- 🤖 **AI:** Building AI Agents for code review, RAG systems, and automation
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep27396)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kuldeep27396)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kuldeep--pal-blue?style=flat-square)](https://kuldeep-pal.site/)
+[![Email](https://img.shields.io/badge/Email-kuldeep27396@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kuldeep27396@gmail.com)
+
+---
+
+💡 **Building scalable data and backend systems that drive real business impact**
