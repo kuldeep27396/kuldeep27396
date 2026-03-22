@@ -43,6 +43,9 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kuldeep27396&theme=radical&hide_border=true&show_icons=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuldeep27396&theme=radical&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=kuldeep27396&theme=radical&no-frame=true&no-bg=true)
+![Visitor](https://visitcount.itsvg.in/api?id=kuldeep27396&icon=0&style=flat)
 
 ---
 
