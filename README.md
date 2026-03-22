@@ -40,6 +40,12 @@
 
 ---
 
+## 📊 GitHub Activity
+
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=kuldeep27396&theme=radical&hide_border=true&custom_title=Contribution%20Graph)
+
+---
+
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep27396)
