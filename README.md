@@ -28,6 +28,7 @@
 
 ## 🔥 Featured Projects
 
+- ⚡ **[spark-ai-agent](https://github.com/kuldeep27396/spark-ai-agent)** — AI-powered Spark optimization | Rule-based + LLM insights | (in progress)
 - 🐍 **[telegram-dl](https://github.com/kuldeep27396/telegram-dl)** — Download videos from Telegram channels | Python, SOLID, Pydantic, 27 Tests | [PyPI](https://pypi.org/project/telegram-dl)
 - 🤖 **[pr-review-agent](https://github.com/kuldeep27396/pr-review-agent)** — Your AI code buddy on every PR | GitHub webhooks, LLM review | [App](https://github.com/apps/staffreview)
 - 🎬 **[youtube-summary-extension](https://github.com/kuldeep27396/youtube-summary-with-perplexity-extension)** — TLDR any video with one click | AI summaries | [Chrome](https://chromewebstore.google.com/detail/youtube-to-perplexity-ai/jgoiaakanloefcjgaecbmmifbnhecppl)
